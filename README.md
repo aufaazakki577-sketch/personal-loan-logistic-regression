@@ -24,7 +24,8 @@ python analysis.py
 ```
 
 ## Output
-![Evaluasi Model](output/evaluasi_model.png)
+![Evaluasi Model]<img width="1166" height="490" alt="image" src="https://github.com/user-attachments/assets/a0cc1929-919d-437f-a64d-db785611f5ae" />
+(output/evaluasi_model.png)
 
 ## Dataset
 Bank Personal Loan Modelling – Universal Bank (5.000 nasabah)
